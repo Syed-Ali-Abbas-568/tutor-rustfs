@@ -71,7 +71,7 @@ this plugin does not provide one.** There is no ``RUSTFS_GATEWAY`` setting.
   simpler and faster than proxying.
 - For **Azure Blob Storage**, there is currently no maintained option. If this
   affects you, please say so on the `Open edX forum
-  <https://discuss.openedx.org/tag/tutor>`_.
+  <https://discuss.openedx.org/t/rustfs-plugin-to-replace-tutor-minio-thoughts-on-azure-gateway/19670>`_.
 
 Configuration
 -------------
